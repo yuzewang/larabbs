@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="59f39884-3f39-481b-93a6-1628d1f626f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Handlers/ImageUploadHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Handlers/ImageUploadHandler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +171,7 @@
       <workItem from="1583748003108" duration="123000" />
       <workItem from="1583748255341" duration="99000" />
       <workItem from="1583748399875" duration="1107000" />
-      <workItem from="1583756352553" duration="5852000" />
+      <workItem from="1583756352553" duration="6416000" />
     </task>
     <servers />
   </component>
@@ -206,17 +204,17 @@
       <screen x="-681" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-672" y="-1048" width="1902" height="1039" maximized="true" key="DiffContextDialog/-681.-1057.1920.1057/0.23.1440.877@-681.-1057.1920.1057" timestamp="1583748353804" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1583764246180">
+    <state width="625" height="500" key="SwitcherDM" timestamp="1583764451531">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="625" height="500" key="SwitcherDM/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583764246180" />
+    <state width="625" height="500" key="SwitcherDM/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583764451531" />
     <state x="239" y="108" width="962" height="706" key="find.popup" timestamp="1583756996533">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="239" y="108" width="962" height="706" key="find.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583756996533" />
-    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1583764130457">
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1583765217365">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583764130457" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583765217365" />
   </component>
 </project>
