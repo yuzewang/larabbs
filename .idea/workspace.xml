@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59f39884-3f39-481b-93a6-1628d1f626f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +169,7 @@
       <workItem from="1583748003108" duration="123000" />
       <workItem from="1583748255341" duration="99000" />
       <workItem from="1583748399875" duration="1107000" />
-      <workItem from="1583756352553" duration="889000" />
+      <workItem from="1583756352553" duration="1551000" />
     </task>
     <servers />
   </component>
@@ -191,21 +190,29 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="308" y="178" key="DBNavigator.DatasetFilterDialog" timestamp="1583757993669">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="308" y="178" key="DBNavigator.DatasetFilterDialog/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583757993669" />
+    <state x="258" y="118" key="DBNavigator.ProjectSettingsDialog" timestamp="1583757972222">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="258" y="118" key="DBNavigator.ProjectSettingsDialog/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583757972222" />
     <state x="-672" y="-1048" width="1902" height="1039" maximized="true" key="DiffContextDialog" timestamp="1583748353804">
       <screen x="-681" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-672" y="-1048" width="1902" height="1039" maximized="true" key="DiffContextDialog/-681.-1057.1920.1057/0.23.1440.877@-681.-1057.1920.1057" timestamp="1583748353804" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1583745489395">
+    <state width="625" height="500" key="SwitcherDM" timestamp="1583757566677">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="625" height="500" key="SwitcherDM/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583745489395" />
+    <state width="625" height="500" key="SwitcherDM/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583757566677" />
     <state x="239" y="108" width="962" height="706" key="find.popup" timestamp="1583756996533">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="239" y="108" width="962" height="706" key="find.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583756996533" />
-    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1583757403845">
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1583757876990">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583757403845" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583757876990" />
   </component>
 </project>
