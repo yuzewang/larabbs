@@ -23,11 +23,7 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes>
-      <connection connection-id="d3e65ec7-49bb-4bf2-bc5a-1b67c568c93d">
-        <schema name="larabbs" object-types="index, dataset trigger, function, view, constraint, table, procedure, column" />
-      </connection>
-    </loaded-nodes>
+    <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="d3e65ec7-49bb-4bf2-bc5a-1b67c568c93d">
