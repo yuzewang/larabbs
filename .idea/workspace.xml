@@ -4,11 +4,8 @@
     <list default="true" id="59f39884-3f39-481b-93a6-1628d1f626f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/RepliesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/RepliesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Requests/ReplyRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/ReplyRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Observers/ReplyObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Observers/ReplyObserver.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/topics/_reply_box.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/topics/_reply_box.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/topics/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/topics/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +191,7 @@
       <workItem from="1583748255341" duration="99000" />
       <workItem from="1583748399875" duration="1107000" />
       <workItem from="1583756352553" duration="24635000" />
-      <workItem from="1583856744449" duration="982000" />
+      <workItem from="1583856744449" duration="4130000" />
     </task>
     <servers />
   </component>
@@ -235,18 +232,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="508" y="374" key="NewPhpFileDialog/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583846646440" />
-    <state width="625" height="500" key="SwitcherDM" timestamp="1583842038938">
+    <state width="625" height="500" key="SwitcherDM" timestamp="1583892687267">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="625" height="500" key="SwitcherDM/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583842038938" />
+    <state width="625" height="500" key="SwitcherDM/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583892687267" />
     <state x="239" y="108" width="962" height="706" key="find.popup" timestamp="1583849386511">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="239" y="108" width="962" height="706" key="find.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583849386511" />
-    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1583891906251">
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1583894596246">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583891906251" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/-681.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1583894596246" />
     <state x="301" y="23" width="838" height="877" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1583815848274" />
   </component>
   <component name="XDebuggerManager">
